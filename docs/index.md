@@ -3,12 +3,12 @@ layout: cv
 title: Caleb Chipman Resume
 ---
 # Caleb Chipman
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+caleb.chipman@outlook.com ● (301) 820-0251 ● linkedin.com/in/caleb-chipman
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="caleb.chipman@outlook.com">caleb.chipman@outlook.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="linkedin.com/in/caleb-chipman">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,69 +16,65 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2025`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+Bachelor of Science in Business Analytics	
+Minor: Supply Chain Management
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+### Relevant Coursework
+- Spreadsheet Analysis for Business - Developed Microsoft Excel skills for business and financial contexts, building spreadsheets showing financial, inventory, invoice statements; schedules, and dashboards 
+- Financial Management – Used Excel to create models of time value of money, financial statements, capital budgeting, leverage, and working capital management in order to make informed financial decisions 
+- Operations Management – Created and used Excel models to assist decision making during a surrounding utilization, forecasting, project management, supply management, and logistics management
 
-- 4.0 Major GPA
+
+## Experience
 
 
-## Related Experience
+`January 2022- Present`
+__Costa Vida Rexburg__, Team Member; Rexburg, ID
 
-### Internships
+- Carried out various responsibilities to help with smooth, timely, and efficient management of restaurant
+- Utilized diverse skill set to work effectively across various roles, as assigned by manager
+- Maintained composure to make decisions in high demand and high-volume situations
+- Executed duties of team member, such as: working various stations on the service line, leading customers through the meal order process, and acting as cashier; provide outstanding customer service
+- Prepared and replenished food as needed; made recommendations to management about perishable food volumes based on real-time analysis of existing commodities and anticipated demand
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`April 2023 - September 2023`
+__Larkin Sunset Gardens__, Cemetary Beautification Crew; Sandy, UT
 
-### Data Science Lead
+- Maintained 76 acres of cemetary gardens, creating a more reverent environment for patrons visiting loved ones 
+- Operated small equipment, such as zero turn mowers and a Bobcat front end loader, assisting in grounds projects
+- Completed various team projects as directed, including adjusting gravestones, trimming trees, and leveling ground
+- Spearheaded the maintenance of the company’s lawn equipment, 6 mowers, 2 hard edgers, and 2 trailers
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`September 2021 - December 2021`
+__Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Utilized skills of problem-solving, decision-making, and reliability supporting the sales managers and salesman
+- Carried out assigned tasks with minimal direction maintaining a dealership car lot in excess of 175+ vehicles
+- Organized dealership inventory, moving recently sold vehicles, and adjusting and cleaning vehicles in showroom 
+- Recognized by General Manager for successful car layout project, showcasing new vehicle color and trim options
+- Maintained the trust and confidence of sales managers; carried out various projects on their behalf
+- Secured repeat work opportunities with the auto group on three separate occasions from 2019 to 2021
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`September 2019 -Semptember 2021`
+__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary
+Arkansas Litte Rock Mission, Little Rock, Arkansas
 
+- Leadership responsibility for up to 24 volunteer missionaries, assisting in goal setting and accomplishment
+- Trained fellow missionaries through group and one-on-one instruction as directed by higher leadership
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Additional Information
+
+- Computer Skills: Microsoft Excel, Python, MySQL, Quarto, VBA
+- Academic Interests: Data Science and Interpretation, Finance, Logistics
+- Other Interests: Skiing, Hiking, Cars, Travel
 
 
 
