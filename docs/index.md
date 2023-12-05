@@ -31,8 +31,7 @@ Minor: Supply Chain Management
 ## Experience
 
 
-`January 2022- Present`
-__Costa Vida Rexburg__, Team Member; Rexburg, ID
+__Costa Vida Rexburg__, Team Member; Rexburg, ID `January 2022- Present`
 
 - Carried out various responsibilities to help with smooth, timely, and efficient management of restaurant
 - Utilized diverse skill set to work effectively across various roles, as assigned by manager
@@ -41,8 +40,7 @@ __Costa Vida Rexburg__, Team Member; Rexburg, ID
 - Prepared and replenished food as needed; made recommendations to management about perishable food volumes based on real-time analysis of existing commodities and anticipated demand
 
 
-`April 2023 - September 2023`
-__Larkin Sunset Gardens__, Cemetary Beautification Crew; Sandy, UT
+__Larkin Sunset Gardens__, Cemetary Beautification Crew; Sandy, UT `April 2023 - September 2023`
 
 - Maintained 76 acres of cemetary gardens, creating a more reverent environment for patrons visiting loved ones 
 - Operated small equipment, such as zero turn mowers and a Bobcat front end loader, assisting in grounds projects
@@ -50,8 +48,7 @@ __Larkin Sunset Gardens__, Cemetary Beautification Crew; Sandy, UT
 - Spearheaded the maintenance of the company’s lawn equipment, 6 mowers, 2 hard edgers, and 2 trailers
 
 
-`September 2021 - December 2021`
-__Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah
+__Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah `September 2021 - December 2021`
 
 - Utilized skills of problem-solving, decision-making, and reliability supporting the sales managers and salesman
 - Carried out assigned tasks with minimal direction maintaining a dealership car lot in excess of 175+ vehicles
@@ -63,12 +60,12 @@ __Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah
 
 ## Service and Work History
 
-`September 2019 -Semptember 2021`
-__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary
+__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary `September 2019 -Semptember 2021`
 Arkansas Litte Rock Mission, Little Rock, Arkansas
 
 - Leadership responsibility for up to 24 volunteer missionaries, assisting in goal setting and accomplishment
 - Trained fellow missionaries through group and one-on-one instruction as directed by higher leadership
+
 
 ## Additional Information
 
