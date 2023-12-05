@@ -60,7 +60,7 @@ __Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah `September 2021 - D
 
 ## Service and Work History
 
-__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary `September 2019 -Semptember 2021`
+__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary `September 2019 -Semptember 2021`\
 Arkansas Litte Rock Mission, Little Rock, Arkansas
 
 - Leadership responsibility for up to 24 volunteer missionaries, assisting in goal setting and accomplishment
