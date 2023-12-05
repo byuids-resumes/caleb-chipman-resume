@@ -16,8 +16,8 @@ caleb.chipman@outlook.com ● (301) 820-0251 ● linkedin.com/in/caleb-chipman
 
 ## Education
 
-`2018-2025`
-__Brigham Young University-Idaho__, Rexburg, ID
+
+__Brigham Young University-Idaho__, Rexburg, ID `2018-2025`
 
 Bachelor of Science in Business Analytics	
 Minor: Supply Chain Management
