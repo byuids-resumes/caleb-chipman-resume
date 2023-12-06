@@ -17,7 +17,7 @@ caleb.chipman@outlook.com ● (301) 820-0251 ● linkedin.com/in/caleb-chipman
 ## Education
 
 
-__Brigham Young University-Idaho__, Rexburg, ID `2018-2025`
+__Brigham Young University-Idaho__, Rexburg, ID `September 2018 - April 2025`
 
 Bachelor of Science in Business Analytics\	
 Minor: Supply Chain Management
@@ -32,7 +32,7 @@ Minor: Supply Chain Management
 
 
 
-__Costa Vida Rexburg__, Team Member; Rexburg, ID `January 2022- Present`
+__Costa Vida Rexburg__, Team Member; Rexburg, ID `January 2022 - Present`
 
 - Carried out various responsibilities to help with smooth, timely, and efficient management of restaurant
 - Utilized diverse skill set to work effectively across various roles, as assigned by manager
@@ -64,7 +64,7 @@ __Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah `September 2021 - D
 ## Service and Work History
 
 
-__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary `September 2019 -Semptember 2021` \
+__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary `September 2019 - Semptember 2021` \
 Arkansas Litte Rock Mission, Little Rock, Arkansas
 
 - Leadership responsibility for up to 24 volunteer missionaries, assisting in goal setting and accomplishment
