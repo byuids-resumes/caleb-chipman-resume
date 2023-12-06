@@ -19,7 +19,7 @@ caleb.chipman@outlook.com ● (301) 820-0251 ● linkedin.com/in/caleb-chipman
 
 __Brigham Young University-Idaho__, Rexburg, ID `2018-2025`
 
-Bachelor of Science in Business Analytics	\
+Bachelor of Science in Business Analytics\	
 Minor: Supply Chain Management
 
 ### Relevant Coursework
@@ -31,6 +31,7 @@ Minor: Supply Chain Management
 ## Experience
 
 
+
 __Costa Vida Rexburg__, Team Member; Rexburg, ID `January 2022- Present`
 
 - Carried out various responsibilities to help with smooth, timely, and efficient management of restaurant
@@ -40,12 +41,14 @@ __Costa Vida Rexburg__, Team Member; Rexburg, ID `January 2022- Present`
 - Prepared and replenished food as needed; made recommendations to management about perishable food volumes based on real-time analysis of existing commodities and anticipated demand
 
 
+
 __Larkin Sunset Gardens__, Cemetary Beautification Crew; Sandy, UT `April 2023 - September 2023`
 
 - Maintained 76 acres of cemetary gardens, creating a more reverent environment for patrons visiting loved ones 
 - Operated small equipment, such as zero turn mowers and a Bobcat front end loader, assisting in grounds projects
 - Completed various team projects as directed, including adjusting gravestones, trimming trees, and leveling ground
 - Spearheaded the maintenance of the company’s lawn equipment, 6 mowers, 2 hard edgers, and 2 trailers
+
 
 
 __Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah `September 2021 - December 2021`
@@ -60,16 +63,19 @@ __Tim Dahle Auto Group__, Lot Technician; South Jordan, Utah `September 2021 - D
 
 ## Service and Work History
 
-__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary `September 2019 -Semptember 2021`\
+
+__The Church of Jesus Christ of Latter-day Saints__, Full-time Missonary `September 2019 -Semptember 2021` \
 Arkansas Litte Rock Mission, Little Rock, Arkansas
 
 - Leadership responsibility for up to 24 volunteer missionaries, assisting in goal setting and accomplishment
 - Trained fellow missionaries through group and one-on-one instruction as directed by higher leadership
 
-
 ## Additional Information
 
-- Computer Skills: Microsoft Excel, Python, MySQL, Quarto, VBA
+- Microsoft Excel: Experience creating dashboards, pivot charts, and extracting data, VBA
+- Python: Experience creating code with basic functions, Pandas, Altair, and Sci-kit Learn
+- MySQL: Experience extracting, sorting, joining, interpreting, and creating basic databases
+- Quarto: Experience creating and rendering reports
 - Academic Interests: Data Science and Interpretation, Finance, Logistics
 - Other Interests: Skiing, Hiking, Cars, Travel
 
