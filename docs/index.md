@@ -6,7 +6,7 @@ title: Caleb Chipman Resume
 caleb.chipman@outlook.com ● (301) 820-0251 ● linkedin.com/in/caleb-chipman
 
 <div id="webaddress">
-<a href="caleb.chipman@outlook.com">caleb.chipman@outlook.com</a>
+<a href="caleb.chipman@outlook.com">Email</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://linkedin.com/in/caleb-chipman">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
